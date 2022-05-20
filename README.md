@@ -12,5 +12,5 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 
 
 ## See orignal repo
-[**Pokémon Red and Blue**](https://github.com/pret/pokeemerald)
+[**pret/pokeemerald**](https://github.com/pret/pokeemerald)
 
